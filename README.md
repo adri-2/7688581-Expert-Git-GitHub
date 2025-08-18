@@ -51,7 +51,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-- **adri-2**
+- **adri**
 
 ## License
 
